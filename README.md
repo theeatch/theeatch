@@ -14,9 +14,9 @@
 <a href="https://twitter.com/dhclub01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhclub01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruv negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv negi" height="30" width="40" /></a>
 <a href="https://instagram.com/dhxdxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhxdxd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@dhspianoland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dhspianoland" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/dh_n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dh_n" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/theeatch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/theeatch/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@DHsPianoLand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dhspianoland" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dh_n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dh_n" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/theeatch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/theeatch/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
