@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Negi</h1>
 <h3 align="center">Frontend developer exploring the world of backend development and Machine Learning. Musician at heart, creating unique piano covers in free time.</h3>
 
-- 🔭 I’m currently working on [FundInc Frontend](https://www.fundinc.in/)
-
-- 🌱 I’m currently learning **Nodejs, EJS and Python Libs.**
-
-- 📫 How to reach me **https://twitter.com/dhclub1**
+- 🔭 I’m currently working on [Upease](https://www.upease.biz/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dhruv-negi-387a3a233/](https://www.linkedin.com/in/dhruv-negi-387a3a233/)
 
